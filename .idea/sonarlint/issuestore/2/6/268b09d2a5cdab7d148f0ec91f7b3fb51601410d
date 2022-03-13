@@ -1,0 +1,13 @@
+
+U
+java:S1128":Remove this unused import 'org.example.level7kyu.Isogram'.(ĞÀûÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'org.example.level7kyu.HighestAndLowestNumber'.(É¦üÙ
+N
+java:S1197"8Move the array designator from the variable to the type.(ù¦¤µ
+e
+java:S1128"JRemove this unused import 'org.example.level8kyu.KataMultiplicationTable'.(‹óÿ†ıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(…“£Äüÿÿÿÿ
+
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(Ú „›
